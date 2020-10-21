@@ -1,1 +1,0 @@
-Aquí se puede ver la practica hecha con el comando nano.
